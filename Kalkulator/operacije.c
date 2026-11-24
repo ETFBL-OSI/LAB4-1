@@ -15,11 +15,11 @@ double oduzmi(double a, double b)
 
 double pomnozi(double a, double b)
 {
-    return 0;
+    return a*b;
 }
 
 
 double podijeli(double a, double b)
 {
-    return 0;
+    return a/b;
 }
